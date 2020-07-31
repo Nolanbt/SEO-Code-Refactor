@@ -21,7 +21,7 @@ h1 {
 }
 
 .seo {
-    color:tan;
+    color:rgb(240, 218, 191);
 }
 
 nav {
@@ -32,11 +32,11 @@ nav {
     font-size: 20px;
 }
 
-nav ul {
+ul {
     list-style-type: none;
 }
 
-nav ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
